@@ -12,5 +12,6 @@ Le fait de devoir apprendre un nouveau moteur me faisait un peu peur au début, 
 Le projet m'a intéressé mais j'aurais aimé pouvoir pousser le Game Design un peu plus loin.
 
 À FAIRE :
+- Ajouter un Scène Componenent
 - VFX pour le dash
-- régler pb dash generator qui empile les dash
+- manette
