@@ -1,10 +1,12 @@
-CONTRÔLES|
+CONTRÔLES|	(Référence manette type Nintendo)
 ---------
-Déplacements → ZQSD
-Saut → Espace
-Dash horizontal → Maj
-Dash vers le haut → Tab
-Dash vers le bas → Ctrl
+Déplacements → ZQSD/Stick gauche
+Saut → Espace/Bouton B
+Dash horizontal → Maj/Bouton Y
+Dash vers le haut → Tab/Bouton ZR
+Dash vers le bas → Ctrl/Bouton ZL
+
+(/!\je n'ai pas pu tester à la manette)
 =======================
 
 Je suis assez content de cette première expérience sur Unreal.
