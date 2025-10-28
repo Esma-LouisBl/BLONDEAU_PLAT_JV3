@@ -16,4 +16,6 @@ Le projet m'a intéressé mais j'aurais aimé pouvoir pousser le Game Design un 
 À FAIRE :
 - Ajouter un Scène Componenent
 - VFX pour le dash
-- manette
+- écran de victoire/de game over
+- musique/sfx
+- sélecteur de niveau
