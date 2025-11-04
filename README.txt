@@ -13,7 +13,7 @@ IL EST POSSIBLE D’ENCHAîNER LES DASH TANT QUE LA BARRE DE DASH N’EST PAS VI
 
 Je suis assez content de cette première expérience sur Unreal.
 Le fait de devoir apprendre un nouveau moteur me faisait un peu peur au début, mais je me suis vite rendu compte que ce n'était pas si différent de Unity.
-Le projet m'a intéressé mais j'aurais aimé surtout pouvoir pousser le Game Design un peu plus loin.
+Le projet m'a intéressé mais j'aurais aimé surtout pouvoir pousser le Game Design un peu plus loin afin de rendre le gameplay plus nerveux et la mécanique de dash plus approfondie.
 
 Si j'avais pu pousser le jeu au-delà d'un simple blockout, j'aurais fait un environnement urbain dans lequel le joueur aurait joué un géomètre (le nom du jeu aurait été Géomètre qui Dash, référence subtile à Geometry Dash)
 
