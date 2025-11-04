@@ -27,3 +27,8 @@ Si j'avais pu pousser le jeu au-delà d'un simple blockout, j'aurais fait un env
 - musique/sfx
 - sélecteur de niveau
 - ennemi à vaincre qui drop une charge de dash
+
+CRÉDITS|
+---------
+Modèle 3D étoile fin de niveau : AnshiNoWara sur Sketchfab
+Police d'écran titre : Geometry Dash
