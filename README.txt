@@ -17,6 +17,9 @@ Le projet m'a intéressé mais j'aurais aimé surtout pouvoir pousser le Game De
 
 Si j'avais pu pousser le jeu au-delà d'un simple blockout, j'aurais fait un environnement urbain dans lequel le joueur aurait joué un géomètre (le nom du jeu aurait été Géomètre qui Dash, référence subtile à Geometry Dash)
 
+Lien d'une vidéo de gameplay si jamais le jeu ne fonctionne pas/que c'est impossible d'aller au bout :
+https://youtu.be/oiHc00H7UiY
+
 À FAIRE :
 - corriger le générateur de dash
 - corriger la mécanique de rails
