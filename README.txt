@@ -3,8 +3,8 @@ CONTRÔLES|	(Référence manette type Nintendo)
 Déplacements → ZQSD/Stick gauche
 Saut → Espace/Bouton B
 Dash horizontal → Maj/Bouton Y
-Dash vers le haut → E/Bouton ZR
-Dash vers le bas → A/Bouton ZL
+Dash vers le haut → A/Bouton ZR
+Dash vers le bas → E/Bouton ZL
 
 (/!\je n'ai pas pu tester à la manette)
 
