@@ -7,6 +7,8 @@ Dash vers le haut → E/Bouton ZR
 Dash vers le bas → A/Bouton ZL
 
 (/!\je n'ai pas pu tester à la manette)
+
+IL EST POSSIBLE D’ENCHAîNER LES DASH TANT QUE LA BARRE DE DASH N’EST PAS VIDE
 =======================
 
 Je suis assez content de cette première expérience sur Unreal.
