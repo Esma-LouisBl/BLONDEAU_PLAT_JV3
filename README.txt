@@ -24,7 +24,6 @@ https://youtu.be/oiHc00H7UiY
 - corriger le générateur de dash
 - corriger la mécanique de rails
 - Ajouter un Scène Componenent
-- VFX pour le dash
 - UI
 - écran de victoire/de game over
 - musique/sfx
