@@ -30,6 +30,8 @@ https://youtu.be/oiHc00H7UiY
 - sélecteur de niveau
 - ennemi à vaincre qui drop une charge de dash
 
+-chgt de GD : le Dash se recharge avec le temps plutôt qu'en le ramassant (on garde juste le système qui augmente la limite de la jauge)
+
 CRÉDITS|
 ---------
 Modèle 3D étoile fin de niveau : AnshiNoWara sur Sketchfab
